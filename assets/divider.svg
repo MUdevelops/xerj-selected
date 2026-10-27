@@ -1,0 +1,2 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="12" viewBox="0 0 900 12" role="presentation">
+<line x1="0" y1="6" x2="900" y2="6" stroke="#30363d" stroke-width="2"/><circle cy="6" r="4" fill="#a3e635"><animate attributeName="cx" values="0;900" dur="4s" repeatCount="indefinite"/></circle></svg>

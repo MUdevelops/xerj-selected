@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" role="img" aria-label="Receipts, not claims.">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#a3e635"/><stop offset="1" stop-color="#22d3ee"/></linearGradient><clipPath id="r"><rect width="900" height="120" rx="14"/></clipPath></defs>
+<g clip-path="url(#r)"><rect width="900" height="120" fill="#0d1117"/>
+<path fill="url(#g)" opacity=".25"><animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 70 Q225 30 450 70 T900 70 V120 H0Z;M0 70 Q225 110 450 70 T900 70 V120 H0Z;M0 70 Q225 30 450 70 T900 70 V120 H0Z"/></path>
+<path fill="url(#g)" opacity=".15"><animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 80 Q225 110 450 80 T900 80 V120 H0Z;M0 80 Q225 50 450 80 T900 80 V120 H0Z;M0 80 Q225 110 450 80 T900 80 V120 H0Z"/></path>
+<text x="450" y="52" font-size="28" font-weight="800" fill="url(#g)" text-anchor="middle" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif">Receipts, not claims.<animate attributeName="opacity" values="1;.6;1" dur="3s" repeatCount="indefinite"/></text></g></svg>
