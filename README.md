@@ -44,6 +44,9 @@ The selection came as a personal email from the founder, not an automated notice
 
 <sub>Subject: <b>AIRegistry: selected for the XERJ Corpus Hub</b> · from founders@xerj.org · Oct 17, 2026 · click to enlarge</sub>
 
+[<img src="assets/screenshots/selected.png" alt="Selected Repository for Ivan on XERJ, titled: AIRegistry: selected for the XERJ Corpus Hub" width="85%">](assets/screenshots/mail.png)
+
+<sub>Subject: <b>Selected Work</b> · For XERJ Corpus Hub · click to enlarge</sub>
 </div>
 
 The line that matters most to me:
