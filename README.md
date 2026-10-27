@@ -5,15 +5,43 @@
 <br>
 
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/MUdevelops/badge.svg)](https://hub.xerj.org/contributors/MUdevelops)
+[![Watch on YouTube](https://img.shields.io/badge/watch-the_video-ff0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://youtu.be/Vawtlf5P5WQ)
 [![AIRegistry](https://img.shields.io/badge/repo-AIRegistry-a3e635?style=for-the-badge&labelColor=0d1117)](https://github.com/MUdevelops/AIRegistry)
 [![Portfolio](https://img.shields.io/badge/portfolio-m--umar--jamal-22d3ee?style=for-the-badge&labelColor=0d1117)](https://m-umar-jamal.netlify.app)
 
 **My AI project, [AIRegistry](https://github.com/MUdevelops/AIRegistry), was reviewed and selected by the founder of [XERJ](https://github.com/xerj-org/xerj) for the open Corpus Hub that AI coding agents search before they write code.**
 
+<sub>
+<a href="#watch">Video</a> ·
+<a href="#selected">Selected</a> ·
+<a href="#email">Email</a> ·
+<a href="#proof">Proof</a> ·
+<a href="#numbers">Numbers</a> ·
+<a href="#timeline">Timeline</a> ·
+<a href="#learned">Lessons</a> ·
+<a href="#connect">Connect</a>
+</sub>
+
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
+<a id="watch"></a>
+<img src="assets/h-video.svg" width="100%" alt="Watch the full story">
+
+<div align="center">
+
+[![Big Day: XERJ Selected My Project, watch on YouTube](https://img.youtube.com/vi/Vawtlf5P5WQ/maxresdefault.jpg)](https://youtu.be/Vawtlf5P5WQ)
+
+**[▶ Big Day: XERJ Selected My Project](https://youtu.be/Vawtlf5P5WQ)**
+<br>
+<sub>The email, the official hub pages, and what the selection means. Published Oct 26, 2026.</sub>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+<a id="selected"></a>
 <img src="assets/h-selected.svg" width="100%" alt="Selected. Officially.">
 
 On **October 17, 2026**, Ivan, founder of **XERJ**, an open-source, AI-native search engine for coding agents, emailed me. After reviewing my commit **"Polish AIRegistry for public launch"**, he selected it for the **XERJ Corpus Hub**.
@@ -29,24 +57,23 @@ The hub is a public index of strong code solutions. When a developer's coding ag
 | **Licence** | MIT, with credit. I agreed by email on 2026-10-18 |
 | **Hub page** | [hub.xerj.org/corpus/mudevelops--airegistry](https://hub.xerj.org/corpus/mudevelops--airegistry) |
 | **Contributor page** | [hub.xerj.org/contributors/MUdevelops](https://hub.xerj.org/contributors/MUdevelops) |
+| **Video** | [youtu.be/Vawtlf5P5WQ](https://youtu.be/Vawtlf5P5WQ) |
 
-> **Status note:** the hub lists the corpus as *selected, in licence review*. It becomes installable once the hub card says **live**. I'll update this line when it does.
+> **Status:** the hub lists the corpus as *selected, in licence review*. It becomes installable once the hub card says **live**. This page will be updated when it does.
 
 <img src="assets/divider.svg" width="100%" alt="">
 
+<a id="email"></a>
 <img src="assets/h-email.svg" width="100%" alt="The email from XERJ's founder">
 
 The selection came as a personal email from the founder, not an automated notice.
 
 <div align="center">
 
-[<img src="assets/screenshots/mail.png" alt="Email from Ivan, founder of XERJ, titled: AIRegistry: selected for the XERJ Corpus Hub" width="85%">](assets/screenshots/mail.png)
+[<img src="assets/screenshots/mail.png" alt="Email from Ivan, founder of XERJ, with the subject: AIRegistry: selected for the XERJ Corpus Hub" width="85%">](assets/screenshots/mail.png)
 
-<sub>Subject: <b>AIRegistry: selected for the XERJ Corpus Hub</b> · from founders@xerj.org · Oct 17, 2026 · click to enlarge</sub>
+<sub><b>The email.</b> Subject: <i>AIRegistry: selected for the XERJ Corpus Hub</i> · from founders@xerj.org · Oct 17, 2026 · click to enlarge</sub>
 
-[<img src="assets/screenshots/selected.png" alt="Selected Repository for Ivan on XERJ, titled: AIRegistry: selected for the XERJ Corpus Hub" width="85%">](assets/screenshots/mail.png)
-
-<sub>Subject: <b>Selected Work</b> · For XERJ Corpus Hub · click to enlarge</sub>
 </div>
 
 The line that matters most to me:
@@ -55,26 +82,34 @@ The line that matters most to me:
 
 <img src="assets/divider.svg" width="100%" alt="">
 
+<a id="proof"></a>
 <img src="assets/h-proof.svg" width="100%" alt="Proof, not claims">
 
-Two public pages on the XERJ Corpus Hub confirm it. Click either screenshot to open the live page.
+The XERJ Corpus Hub shows the selection publicly. Click a screenshot to enlarge it or to open the live page.
 
 <div align="center">
 
+[<img src="assets/screenshots/selected.png" alt="Selected work for MUdevelops on the XERJ Corpus Hub" width="85%">](assets/screenshots/selected.png)
+
+<sub><b>Selected work.</b> The repository and commit chosen for the hub · click to enlarge</sub>
+
+<br><br>
+
 [<img src="assets/screenshots/contributor.png" alt="XERJ Corpus Hub contributor page for MUdevelops" width="85%">](https://hub.xerj.org/contributors/MUdevelops)
 
-<sub><b>Contributor page.</b> Corpus Hub contributor since 2026-10-18. Click to open the live page.</sub>
+<sub><b>Contributor page.</b> Corpus Hub contributor since 2026-10-18 · click to open the live page</sub>
 
 <br><br>
 
 [<img src="assets/screenshots/airegistry.png" alt="XERJ Corpus Hub corpus page for MUdevelops/AIRegistry" width="85%">](https://hub.xerj.org/corpus/mudevelops--airegistry)
 
-<sub><b>Corpus page.</b> MUdevelops/AIRegistry, selected for the hub. Click to open the live page.</sub>
+<sub><b>Corpus page.</b> MUdevelops/AIRegistry, selected for the hub · click to open the live page</sub>
 
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
+<a id="numbers"></a>
 <img src="assets/h-numbers.svg" width="100%" alt="By the numbers">
 
 <div align="center">
@@ -83,6 +118,7 @@ Two public pages on the XERJ Corpus Hub confirm it. Click either screenshot to o
 
 <img src="assets/divider.svg" width="100%" alt="">
 
+<a id="timeline"></a>
 <img src="assets/h-timeline.svg" width="100%" alt="The timeline">
 
 <div align="center">
@@ -93,6 +129,7 @@ About three weeks passed between the first commit and the selection.
 
 <img src="assets/divider.svg" width="100%" alt="">
 
+<a id="learned"></a>
 <img src="assets/h-learned.svg" width="100%" alt="What I learned shipping it">
 
 - **Ship the tests with the code.** XERJ called out that the tests landed in the same commit. That habit made the work reviewable.
@@ -111,6 +148,7 @@ About three weeks passed between the first commit and the selection.
 
 <img src="assets/divider.svg" width="100%" alt="">
 
+<a id="connect"></a>
 <img src="assets/h-connect.svg" width="100%" alt="Let's connect">
 
 | | |
@@ -119,6 +157,7 @@ About three weeks passed between the first commit and the selection.
 | Portfolio | [m-umar-jamal.netlify.app](https://m-umar-jamal.netlify.app) |
 | AIRegistry | [github.com/MUdevelops/AIRegistry](https://github.com/MUdevelops/AIRegistry) |
 | Hub profile | [hub.xerj.org/contributors/MUdevelops](https://hub.xerj.org/contributors/MUdevelops) |
+| YouTube | [Big Day: XERJ Selected My Project](https://youtu.be/Vawtlf5P5WQ) |
 
 If you use AI coding agents, try [XERJ](https://github.com/xerj-org/xerj). It's free, open source, and retrieves the exact passage an agent needs instead of letting it guess.
 
